@@ -1,0 +1,23 @@
+[project]
+name = "AdventOfCode2025"
+version = "0.1.0"
+description = "My solutions for the Advent of Code 2025 challenges, written in Python."
+authors = [{ name = "Mario Kahlhofer", email = "mario.kahlhofer@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+ "advent-of-code-data>=2.1.0",
+ "funcy>=2.0",
+ "networkx>=3.6",
+ "numpy>=2.3.5",
+ "parse>=1.20.2",
+ "scipy>=1.16.3",
+ "sympy>=1.14.0",
+ "tqdm>=4.67.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "ruff>=0.14.7",
+]
