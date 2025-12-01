@@ -4,6 +4,16 @@ My solutions for the [AoC 2025](https://adventofcode.com/2025) challenges, writt
 
 🎄 🎄 🎄
 
+## Puzzles
+
+| Day | 🧩 Puzzle                                                  | 🐍 Solution            | ⏳ Duration A | ⏳ Duration B |
+| --: | :--------------------------------------------------------- | :--------------------- | ------------: | ------------: |
+|   1 | **[Secret Entrance](https://adventofcode.com/2025/day/1)** | [day1.py](src/day1.py) |             - |             - |
+
+Timings are measured on my computer in a non-scientific way.
+Empty durations indicate a runtime of less than ten milliseconds.
+Bold durations indicate a runtime of more than one minute.
+
 ## Requirements
 
 ### Python >= 3.14
