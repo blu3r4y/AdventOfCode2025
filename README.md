@@ -9,6 +9,7 @@ My solutions for the [AoC 2025](https://adventofcode.com/2025) challenges, writt
 | Day | 🧩 Puzzle                                                  | 🐍 Solution            | ⏳ Duration A | ⏳ Duration B |
 | --: | :--------------------------------------------------------- | :--------------------- | ------------: | ------------: |
 |   1 | **[Secret Entrance](https://adventofcode.com/2025/day/1)** | [day1.py](src/day1.py) |             - |             - |
+|   2 | **[Gift Shop](https://adventofcode.com/2025/day/2)**       | [day2.py](src/day2.py) |        795 ms |      5.181 ms |
 
 Timings are measured on my computer in a non-scientific way.
 Empty durations indicate a runtime of less than ten milliseconds.
