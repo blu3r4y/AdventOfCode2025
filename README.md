@@ -6,11 +6,12 @@ My solutions for the [AoC 2025](https://adventofcode.com/2025) challenges, writt
 
 ## Puzzles
 
-| Day | 🧩 Puzzle                                                  | 🐍 Solution            | ⏳ Duration A | ⏳ Duration B |
-| --: | :--------------------------------------------------------- | :--------------------- | ------------: | ------------: |
-|   1 | **[Secret Entrance](https://adventofcode.com/2025/day/1)** | [day1.py](src/day1.py) |             - |             - |
-|   2 | **[Gift Shop](https://adventofcode.com/2025/day/2)**       | [day2.py](src/day2.py) |        795 ms |      5.181 ms |
-|   3 | **[Lobby](https://adventofcode.com/2025/day/3)**           | [day3.py](src/day3.py) |             - |             - |
+| Day | 🧩 Puzzle                                                      | 🐍 Solution            | ⏳ Duration A | ⏳ Duration B |
+| --: | :------------------------------------------------------------- | :--------------------- | ------------: | ------------: |
+|   1 | **[Secret Entrance](https://adventofcode.com/2025/day/1)**     | [day1.py](src/day1.py) |             - |             - |
+|   2 | **[Gift Shop](https://adventofcode.com/2025/day/2)**           | [day2.py](src/day2.py) |        795 ms |      5.181 ms |
+|   3 | **[Lobby](https://adventofcode.com/2025/day/3)**               | [day3.py](src/day3.py) |             - |             - |
+|   4 | **[Printing Department](https://adventofcode.com/2025/day/4)** | [day4.py](src/day4.py) |             - |        290 ms |
 
 Timings are measured on my computer in a non-scientific way.
 Empty durations indicate a runtime of less than ten milliseconds.
