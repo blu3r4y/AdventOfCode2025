@@ -12,6 +12,7 @@ My solutions for the [AoC 2025](https://adventofcode.com/2025) challenges, writt
 |   2 | **[Gift Shop](https://adventofcode.com/2025/day/2)**           | [day2.py](src/day2.py) |        795 ms |      5.181 ms |
 |   3 | **[Lobby](https://adventofcode.com/2025/day/3)**               | [day3.py](src/day3.py) |             - |             - |
 |   4 | **[Printing Department](https://adventofcode.com/2025/day/4)** | [day4.py](src/day4.py) |             - |        290 ms |
+|   5 | **[Cafeteria](https://adventofcode.com/2025/day/5)**           | [day5.py](src/day5.py) |             - |             - |
 
 Timings are measured on my computer in a non-scientific way.
 Empty durations indicate a runtime of less than ten milliseconds.
