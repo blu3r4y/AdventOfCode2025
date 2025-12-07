@@ -14,6 +14,7 @@ My solutions for the [AoC 2025](https://adventofcode.com/2025) challenges, writt
 |   4 | **[Printing Department](https://adventofcode.com/2025/day/4)** | [day4.py](src/day4.py) |             - |        290 ms |
 |   5 | **[Cafeteria](https://adventofcode.com/2025/day/5)**           | [day5.py](src/day5.py) |             - |             - |
 |   6 | **[Trash Compactor](https://adventofcode.com/2025/day/6)**     | [day6.py](src/day6.py) |             - |             - |
+|   7 | **[Laboratories](https://adventofcode.com/2025/day/7)**        | [day7.py](src/day7.py) |             - |             - |
 
 Timings are measured on my computer in a non-scientific way.
 Empty durations indicate a runtime of less than ten milliseconds.
