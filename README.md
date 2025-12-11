@@ -18,6 +18,7 @@ My solutions for the [AoC 2025](https://adventofcode.com/2025) challenges, writt
 |   8 | **[Playground](https://adventofcode.com/2025/day/8)**          | [day8.py](src/day8.py)   |      1.806 ms |      3.844 ms |
 |   9 | **[Movie Theater](https://adventofcode.com/2025/day/9)**       | [day9.py](src/day9.py)   |         57 ms |        805 ms |
 |  10 | **[Factory](https://adventofcode.com/2025/day/10)**            | [day10.py](src/day10.py) |         37 ms |        144 ms |
+|  11 | **[Reactor](https://adventofcode.com/2025/day/11)**            | [day11.py](src/day11.py) |             - |             - |
 
 Timings are measured on my computer in a non-scientific way.
 Empty durations indicate a runtime of less than ten milliseconds.
